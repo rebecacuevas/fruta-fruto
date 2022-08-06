@@ -1,0 +1,16 @@
+.about__titulo{
+    color: #8d0006;
+    font-family: 'Fredoka One', cursive;
+}
+
+@media screen and (min-width: 0){
+    .about__titulo{
+        font-size: 2rem;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .about__titulo{
+        font-size: 3rem;
+    }
+}
